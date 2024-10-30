@@ -1,0 +1,10 @@
+//Create a Circle class where
+// ◦ declare a private constant  double variable PI has value
+//of 3,141519
+// ◦ declare a private variable called radius.
+// ◦ class constructor will have an argument to set radius.
+// ◦ declare a method called computeArea() to compute area
+//of a circle object.
+// ◦ create 3 different circle instances, with radiuses 5, 10,
+//15.
+//◦ print all the areas using a foreach loop.

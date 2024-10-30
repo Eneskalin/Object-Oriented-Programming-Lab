@@ -1,0 +1,26 @@
+Create Branch Enum type will contain following branches
+ 1. MATH(“information regarding math”)
+ 2. PHYSICS(“information regarding physics”)
+ 3. CS(“information regarding cs”)
+ 4. ENG(“information regarding eng”)
+ 2. Create a Teacher Class which contains id (int), and
+branch (Enum) attributes. The class must have a
+constructor with these two parameters.
+ 3. Create four teacher objects; each has different branch.
+ 4. Put them all in an array, and print their branches using
+for loop
+----------------------------------------------------------------------------
+Aşağıda verilen adımları içeren bir proje hazırlayın:
+
+Branch enum türünü oluşturun ve aşağıdaki dalları içersin:
+
+MATH("matematik hakkında bilgi")
+PHYSICS("fizik hakkında bilgi")
+CS("bilgisayar bilimi hakkında bilgi")
+ENG("mühendislik hakkında bilgi")
+Teacher adlı bir sınıf oluşturun. Bu sınıf, id (int) ve branch (Enum) adında iki özellik içersin. Sınıf,
+bu iki parametreyi alan bir yapıcıya sahip olmalıdır.
+
+Farklı birer branşa sahip dört öğretmen nesnesi oluşturun.
+
+Bu öğretmen nesnelerinin hepsini bir diziye koyun ve bir for döngüsü kullanarak branşlarını yazdırın.
