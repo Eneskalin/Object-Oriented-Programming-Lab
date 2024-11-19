@@ -1,8 +1,8 @@
 package Exam2021q3;
 
 public class EncapsulatedNFT {
-     double balance; // balance cannot be less than 0 or greater than 10000
-     String owner;
+    private double balance; // balance cannot be less than 0 or greater than 10000
+    private String owner;
 
 
     void setBalance(double balance){
